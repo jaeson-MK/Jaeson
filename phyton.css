@@ -1,0 +1,36 @@
+.thrid-page{
+    color:silver;
+    font-size:30px;
+    text-align:center;
+    margin:150px 150px;
+}
+body{
+    background-image:url(/backgroundthridimage.jpg/backgrounthridpage.jpeg);
+    background-repeat:no-repeat;
+    width:100%;
+    background-size:cover;
+}
+h1{
+    padding:30px 10px;
+    border-bottom:silver 2px solid;
+    
+}
+p{
+    text-align:center;
+    margin-bottom:10px;
+    color:silver;
+    font-size:15px;
+}
+input {
+    border:2px silver solid;
+    width:175px;
+    height:55px;
+    background-color:black;
+    color:white;
+    padding:15px 15px;
+    border-radius:30px;
+}
+input:hover {
+    transition: all ease-in-out 1s;
+    background-color:cornflowerblue;
+}

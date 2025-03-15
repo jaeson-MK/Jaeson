@@ -1,0 +1,42 @@
+body{
+    background-image:url(/backgroundthridimage.jpg/backgrounthridpage.jpeg);
+    background-repeat:no-repeat;
+    width:100%;
+    background-size:cover;
+    text-align:center;
+}
+.sign-up{
+    margin:5px 0px;
+    padding:10px 15px;
+    text-align:center;
+    margin:105px ;
+}
+input:hover {
+    background-color:cornflowerblue;
+    transition: all ease-in-out 1s;
+}
+h3 {
+    font-size:35px;
+    color:silver;
+    text-align:center;
+}
+h1 {
+    border-bottom:2px silver dotted;
+    font-size: 50px;
+    color:silver;
+    text-align:center;
+    margin:5px 0px;
+    padding:10px 0px;
+
+
+}
+input {
+    border:2px silver solid;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+    width: 110px;
+    height:55px;
+    margin:auto;
+    padding:10px 20px;
+}
